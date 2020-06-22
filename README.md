@@ -1,7 +1,7 @@
 # Platzi blog
 
 Primer desafio del curso de Desarrollo Web Online 2016 de Platzi:green_heart:.    
-Aunque mejorado con la clase de resolviendo el desafio
+Aunque complementado con la clase de resolviendo el desafio
 
 GitHub Page: https://skywalker0816.github.io/Platzi-blog/
 
